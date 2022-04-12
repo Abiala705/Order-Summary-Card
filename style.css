@@ -66,8 +66,8 @@ body {
   line-height: 130%;
 }
 div.subscription {
-  width: 310px;
-  height: 200px;
+  min-width: 290px;
+  min-height: 50px;
   display: flex;
   flex-basis: 100%;
   border-radius: 8px;
